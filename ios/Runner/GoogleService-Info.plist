@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>918956618878-5rboe47bi8vqj7p88ar6vf7hm9j6tco9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.918956618878-5rboe47bi8vqj7p88ar6vf7hm9j6tco9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>918956618878-sf778fvdjq81sknoubic6euemked6v5e.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBU6H2EIP8haZQOveAf_2q3vrXLLBa8eKc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>918956618878</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>la.edu.nuol.fe.ceit.demoappfirebase</string>
+	<key>PROJECT_ID</key>
+	<string>tondemo-1a7c4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tondemo-1a7c4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:918956618878:ios:f53b2dad162633f066142f</string>
+	<key>DATABASE_URL</key>
+	<string>https://tondemo-1a7c4.firebaseio.com</string>
+</dict>
+</plist>
